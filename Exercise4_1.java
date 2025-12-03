@@ -2,7 +2,7 @@
  * Ad Soyad: [Mustafa Şahingöz]
  * Ogrenci No: [250542008]
  * Tarih: [03.12.2025]
- * Aciklama:     Egzersiz1
+ * Aciklama:Egzersiz1
  *
  * 
  * 
