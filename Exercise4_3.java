@@ -5,7 +5,7 @@
 
 
 STACK DİYAGRAMI
-//Stack Frame (Metot),Durum
+Stack Frame (Metot),Durum
 //ping,Şu an aktif (çalışıyor)
 //baffle,ping'in bitmesini bekliyor
 //zoop,baffle'ın bitmesini bekliyor
