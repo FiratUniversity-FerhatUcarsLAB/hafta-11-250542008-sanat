@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 public class Exercise4_4 {
 
     public static int getNumber() {
@@ -17,5 +29,11 @@ public class Exercise4_4 {
         // System.out.println(sayHello() + 7);
 
         // Cevaplarinizi yorum olarak ekleyin.
+
+
+
+        //Cevap-1:Hata ve uyarı vermez.Metod çalışır ve toplama işlemini yapar 15 sonucunu bulur ama bu değeri yaklayan kimse olmadığı için yok sayılır.
+        //Cevap-2:Derleme hatası(Error: operator + cannot be applied to void, int (Hata: + operatörü 'void' ve 'int' türlerine uygulanamaz) Veya: 'void' type not allowed here) alınır ve kod çalışmaz.Çünkü void bir veri tipi değildir.
+
     }
 }
