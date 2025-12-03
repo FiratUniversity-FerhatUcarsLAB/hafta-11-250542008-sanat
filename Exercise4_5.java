@@ -1,3 +1,20 @@
+
+/*
+ * Ad Soyad: [Mustafa Şahingöz]
+ * Ogrenci No: [250542008]
+ * Tarih: [03.12.2025]
+ * Aciklama:     Egzersiz5
+ *
+ * 
+ * 
+ */
+
+
+
+
+
+
+
 public class Exercise4_5 {
 
     public static void zoop(String fred, int bob) {
