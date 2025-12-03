@@ -1,3 +1,29 @@
+
+
+
+
+
+
+STACK DİYAGRAMI
+//Stack Frame (Metot),Durum
+//ping,Şu an aktif (çalışıyor)
+//baffle,ping'in bitmesini bekliyor
+//zoop,baffle'ın bitmesini bekliyor
+//main,zoop'un bitmesini bekliyor
+    
+KOD ÇIKTISI
+    //No , I  wug.
+ //You wugga  wug.
+//I  wug.//
+
+
+
+
+
+
+
+
+
 public class Exercise4_3 {
 
     public static void zoop() {
